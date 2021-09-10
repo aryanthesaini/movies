@@ -1,0 +1,25 @@
+input{
+    padding-bottom: 0.4rem;
+    padding-top: 0.3rem;
+}
+h1{
+    font-size: 4em;
+    text-align: center;
+    padding-bottom: 2rem;
+    font-weight: 100;
+}
+#searchForm{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.btn{
+    transform: translateY(-0.1em);
+}
+
+.custom{
+
+    padding-top: 3rem;
+    padding-left: 1rem;
+    border-radius: 10%;
+}
